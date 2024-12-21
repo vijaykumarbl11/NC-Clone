@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Netclan Explorer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="Availability">
+        <item>Available | Hey Lets Us Connect</item>
+        <item>Away | Stay Discrete And Watch</item>
+        <item>Busy | Do Not Disturb | Will Catch Up Later</item>
+        <item>SOS | Emergency! Need Assistance! HELP</item>
+
+
+    </string-array>
+
+
+</resources>

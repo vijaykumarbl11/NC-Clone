@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189521215829",
+    "project_id": "neclone-7c99e",
+    "storage_bucket": "neclone-7c99e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189521215829:android:04c50866ab58a8411cafdc",
+        "android_client_info": {
+          "package_name": "com.app.neclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcB6FOU9WYsZr_tK0ueq5FdgIYCpvS0qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
